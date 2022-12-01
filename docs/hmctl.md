@@ -1,3 +1,7 @@
+layout: page
+title: "HMCTL"
+permalink: /hmctl
+
 ## hmctl
 
 hmctl is the Pure Fusion CLI
