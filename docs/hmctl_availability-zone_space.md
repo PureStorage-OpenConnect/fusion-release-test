@@ -1,15 +1,15 @@
-## hmctl availability-zone get
+## hmctl availability-zone space
 
-Gets a specific Availability Zone.
+Gets a specific Availability Zone Space Metrics.
 
 ```
-hmctl availability-zone get [flags]
+hmctl availability-zone space [flags]
 ```
 
 ### Options
 
 ```
-  -h, --help            help for get
+  -h, --help            help for space
   -n, --name string     The name of the Availability Zone. (Required)
   -r, --region string   The name of the Region. (Required)
 ```
